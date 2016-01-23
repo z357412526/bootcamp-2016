@@ -1,2 +1,18 @@
-A readme
-MY NAME IS SHAYNE, AND MY COWORKER'S NAME IS LYNN.
+*********************
+Ordinary Least Square
+*********************
+
+#. Docstring:
+
+
+
+#. Parameters:
+
+
+#. Returns:
+
+#. Notes:
+
+#. References:
+
+#. Examples:
